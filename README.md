@@ -1,2 +1,4 @@
-# efs
-app
+<?php 
+echo phpinfo();
+
+?>
